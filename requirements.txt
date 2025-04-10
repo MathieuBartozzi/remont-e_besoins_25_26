@@ -1,0 +1,12 @@
+pandas
+openai
+python-dotenv
+pydantic
+sentence-transformers==2.2.2
+huggingface_hub==0.14.1
+transformers==4.30.2
+umap-learn
+hdbscan
+matplotlib
+seaborn
+scikit-learn

@@ -1,5 +1,5 @@
 # Référentiel enrichi automatiquement
-referentiels = {
+referentiels_multichoix = {
     "certifications_educatives": [
         "Animation et encadrement des jeunes",
         "CAFFA",

@@ -1,0 +1,112 @@
+[
+    {
+        "question": "Décrivez une séance dans laquelle vous avez structuré votre cours en fonction de vos objectifs pédagogiques. Comment avez-vous adapté votre enseignement aux besoins de vos élèves ?",
+        "variable": "exemple_adaptation_enseignement",
+        "competence": "Construire, mettre en œuvre et animer des situations d'enseignement et d'apprentissage prenant en compte la diversité des élèves",
+        "grille": {
+            "0": "-L'enseignant n'adapte pas son enseignement à tous les élèves et notamment aux élèves à besoins éducatifs particuliers par manque de ressources \n-Les dispositifs réglementaires en matière d'inclusion scolaire ne sont pas connus.\n-Les PPS, PAP, et PPRE  ne sont pas mis en oeuvre.\n-Les obstacles aux apprentissages ne sont pas anticipés.                                                        ",
+            "1": "-L'enseignant adapte partiellement son enseignement à tous les élèves et notamment aux élèves à besoins éducatifs particuliers. \n-Les dispositifs réglementaires en matière d'inclusion scolaire sont partiellement connus\n-Les PPS, PAP, PPRE sont partiellement mis en oeuvre.\n-Les obstacles aux apprentissages sont partiellement anticipés.",
+            "2": "-L'enseignant anticipe les obstacles à l'apprentissage des contenus et prévoit leur traitement.\n-Il prend en considération les représentations, les besoins et champs d'intérêt particuliers des élèves, dans l'élaboration de situations d'apprentissage stimulantes. \n",
+            "3": "-L'enseignant différencie son enseignement en fonction des rythmes d'apprentissage et des possibilités de chacun.\n-Il appuie le choix et le contenu de ses interventions sur les données récentes de la recherche en matière de didactique et de sciences de l'éducation"
+        }
+    },
+    {
+        "question": "Comment concevez-vous vos évaluations pour mesurer les progrès des élèves et quelles actions mettez-vous en place suite à une évaluation pour les aider à progresser ?",
+        "variable": "conception_evaluation_suivi",
+        "competence": "Évaluer de manière régulière et pertinente les progrès et les acquisitions des élèves",
+        "grille": {
+            "0": "-L'enseignant ne maîtrise pas les objectifs et les outils de l'évaluation par compétences. \n-Il n'utilise pas l'évaluation dans un objectif de remédiation. \n-Il n'utilise pas les pratiques d'évaluation de manière régulière et ne sait pas mobiliser les différents modes d'évaluation.",
+            "1": "-L'enseignant maîtrise partiellement les objectifs et les outils de l'évaluation par compétences.\n-Il est partiellement attentif au rythme des devoirs, à la ponctualité de la remise des notes et à la qualité des appréciations sur les bulletins trimestriels et le livret scolaire.\n-Il évalue de façon progressive les apprentissages et maîtrise partiellement les différents modes d'évaluation.\n",
+            "2": "-L'enseignant explicite les critères d'évaluation et les communique de façon transparente.\n-Il est attentif au rythme des devoirs, à la ponctualité de la remise des notes et à la qualité des appréciations sur les bulletins trimestriels et le livret scolaire, dans une démarche institutionnelle et d'information aux familles.\n-Il évalue de façon constructive et formative Ia progression des apprentissages et maîtrise les différents modes d'évaluation. \n-Il conçoit et met en œuvre des activités de remédiation et de consolidation des acquis dans son cours ou dans le cadre de l'AP.",
+            "3": "-L'enseignant est attentif à faire comprendre aux élèves les principes et les critères d'évaluation.\n-Il aide l'élève à prendre conscience de ses marges de progrès grace à des retours explicites. Il développe progressivement la capacité des élèves à s'auto-évaluer.\n-Il sait amener chaque élève à porter un regard positif sur ses productions et sur celles des autres.\n-Il se questionne et échange avec ses collègues sur les pratiques d'évaluation et contribue à l'élaboration d'outils."
+        }
+    },
+    {
+        "question": "Décrivez un moment où un outil numérique a amélioré votre enseignement. Quels ont été les bénéfices pour vos élèves ?",
+        "variable": "outil_numerique_benefices",
+        "competence": "Utiliser de façon pertinente des outils numériques",
+        "grille": {
+            "0": "-L'enseignant ne possède pas une maîtrise suffisante des outils informatiques de base (pack office, google drive, vidéo projection, moodle, pronote). \n-Il utilise de manière très limitée les outils, les ressources et les usages numériques dans la construction didactique des apprentissages.",
+            "1": "-L'enseignant possède une maîtrise suffisante des outils informatiques de base.\n-Il intègre partiellement les outils, les ressources et les usages numériques dans Ia construction didactique des apprentissages en évaluant leur plus-value.",
+            "2": "-L'enseignant identifie et intègre Ies outils, les ressources et les usages numériques dans la construction didactique des apprentissages en évaluant leur plus-value.\n-Il participe à l'éducation des élèves à un usage civique, éthique et responsable d'internet.\n-Il aide les élèves à s'approprier les outils et les usages numériques de manière critique et créative dans le cadre d'activités d'apprentissage, de recherche, de structuration et de partage d'informations.",
+            "3": "-L'enseignant tire le meilleur parti des ressources numériques pour l'individualisation des apprentissages. \n-Il assure une veille sur les évolutions du numérique afin de savoir quelles solutions technologiques peuvent soutenir les usages pédagogiques."
+        }
+    },
+    {
+        "question": "Quels outils ou supports utilisez-vous pour permettre à vos élèves de suivre leurs apprentissages et d’identifier leurs axes de progrès ? Donnez un exemple précis.",
+        "variable": "outils_suivi_apprentissage",
+        "competence": "Adopter un langage clair et adapté et intégrer dans son activité la maîtrise de la langue écrite et orale par les élèves",
+        "grille": {
+            "0": "-L'enseignant est allophone et fait régulièrement des erreurs de syntaxe. \n-Le vocabulaire disciplinaire est incomplet.\n-L'enseignant n'intègre pas systématiquement l'objectif de la maîtrise de la langue française dans son enseignement.",
+            "1": "-L'enseignant est francophone mais  présente des fautes de syntaxe. \n-Le vocabulaire disciplinaire est globalement maîtrisé.\n-L'enseignant sait reconnaître les fautes de français à l'oral et à l'écrit de ses élèves.\n-Il est en mesure de décrire et expliquer simplement son enseignement à un membre de la communauté éducative ou à un parent d'élève.",
+            "2": "-L'enseignant formule de manière claire et précise les questions, les explications et les consignes de travail aux élèves. \n-Il intègre quotidiennement dans son enseignement l'objectif de maîtrise de La langue orale et écrite par les élèves. \n-Il peut prendre position, soutenir ses idées de manière argumentée, cohérente, efficace et respectueuse lors d'une\ndiscussion.",
+            "3": "-L'enseignant emploi un langage oral et écrit approprié dans ses interventions auprès des élèves, des parents, des pairs et des autres membres de la communauté éducative.\n-Le vocabulaire est riche et adapté aux différentes situations professionnelles. \n-Il fait prendre conscience aux élèves de leurs erreurs et propose les reprises, les reformulations et les retroactions nécéssaires."
+        }
+    },
+    {
+        "question": "Comment créez-vous un climat de classe serein et favorable aux apprentissages ? Partagez une expérience concrète.",
+        "variable": "climat_classe",
+        "competence": "Organiser et assurer un mode de fonctionnement du groupe favorisant l'apprentissage et la socialisation des élèves",
+        "grille": {
+            "0": "-L'enseignant a des difficultés à organiser le fonctionnement de la classe.\n-Sa relation avec les élèves est souvent tendue et crée des conditions négatives à la mise en oeuvre d'un climat de classe apaisé.\n-Il ne parvient pas à repérer et à mobiliser les élèves durablement inactifs dans le cadre des séances de cours.\n- L'enseignant ne connait pas le réglement intérieur.",
+            "1": "-L'enseignant sait organiser la salle de classe pour le fonctionnement\nquotidien. \n-Il communique aux élèves des exigences claires au sujet des comportements scolaires et sociaux appropriés et il inscrit son action dans le cadre d'un respect mutuel. \n-Il connaît et utilise partiellement l'échelle des punitions qu'il differencie des sanctions.",
+            "2": "-L'enseignant sait définir et mettre en place des rituels d'apprentissage efficaces.\n-II a recourt à des stratégies adéquates pour prévenir l'émergence de comportements inappropriés et pour intervenir efficacement s'ils se manifestent.  \n- Il utilise à bon escient l'échelle des punitions et rédige des rapports d'incident en vue d'une possible sanction.",
+            "3": "-L'enseignant sait guider les élèves dans la compréhension des exigences d'une tâche ou d'un projet afin d'obtenir leur adhésion. \n-Il organise des activités pour construire l'estime de soi et des autres, mettre en pratique les valeurs de la coopération (solidarité, entraide) et respecter les différences."
+        }
+    },
+    {
+        "question": "Décrivez une situation où vous avez adapté vos pratiques pédagogiques pour répondre aux besoins spécifiques d’un ou plusieurs élèves.",
+        "variable": "adaptation_pratiques_specifiques",
+        "competence": "Construire, mettre en œuvre et animer des situations d'enseignement et d'apprentissage prenant en compte la diversité des élèves",
+        "grille": {
+            "0": "-L'enseignant n'adapte pas son enseignement à tous les élèves et notamment aux élèves à besoins éducatifs particuliers par manque de ressources \n-Les dispositifs réglementaires en matière d'inclusion scolaire ne sont pas connus.\n-Les PPS, PAP, et PPRE  ne sont pas mis en oeuvre.\n-Les obstacles aux apprentissages ne sont pas anticipés.                                                        ",
+            "1": "-L'enseignant adapte partiellement son enseignement à tous les élèves et notamment aux élèves à besoins éducatifs particuliers. \n-Les dispositifs réglementaires en matière d'inclusion scolaire sont partiellement connus\n-Les PPS, PAP, PPRE sont partiellement mis en oeuvre.\n-Les obstacles aux apprentissages sont partiellement anticipés.",
+            "2": "-L'enseignant anticipe les obstacles à l'apprentissage des contenus et prévoit leur traitement.\n-Il prend en considération les représentations, les besoins et champs d'intérêt particuliers des élèves, dans l'élaboration de situations d'apprentissage stimulantes. \n",
+            "3": "-L'enseignant différencie son enseignement en fonction des rythmes d'apprentissage et des possibilités de chacun.\n-Il appuie le choix et le contenu de ses interventions sur les données récentes de la recherche en matière de didactique et de sciences de l'éducation"
+        }
+    },
+    {
+        "question": "Comment aidez-vous vos élèves à établir des liens entre leurs apprentissages et à se projeter dans leur parcours futur ? Donnez un exemple concret.",
+        "variable": "lien_apprentissages_parcours",
+        "competence": "Accompagner les élèves dans leur parcours de formation (parcours avenir, AP,...)",
+        "grille": {
+            "0": "-L'enseignant ne connaît pas les mécanismes mis en jeu dans le cadre du cursus scolaire et parcours d'orientation du système français.\n-Il n'intègre pas dans son enseignement la découverte des métiers et des formations.",
+            "1": "-L'enseignant contribue partiellement à la découverte des métiers et des formations dans le cadre de son enseignement. \n-Il contribue partiellement à une orientation de ses élèves.",
+            "2": "-Il contribue à une orientation choisie par les élèves par le biais d'entretiens menés avec les élèves et les parents.\n-Il est attentif au bien être des élèves.",
+            "3": "-L'enseignant sait déceler les signes du décrochage scolaire afin de prévenir les situations difficiles et y faire face. \n-Il veille à une personnalisation adaptée des parcours des élèves et contribue à leur accompagnement."
+        }
+    },
+    {
+        "question": "Avez-vous déjà réalisé un projet ou une activité en collaboration avec vos collègues ? Quel impact cela a-t-il eu sur les élèves ?",
+        "variable": "projets_collaboration_impact",
+        "competence": "Coopérer au sein des équipes",
+        "grille": {
+            "0": "-L'enseignant ne participe pas aux groupes et instances de travail. \n-Il n'est pas présent aux conseils de classe, il ne participe à aucune activité pédagogique et éducative autre que celle effectuée en classe.\n-L'enseignant ne communique pas, ou très ponctuellement, avec la vie scolaire au sujet des élèves car il ne connaît pas le rôle de la vie scolaire.",
+            "1": "-L'enseignant participe ponctuellement au travail de groupes de sa\ndiscipline et de son niveau.\n-En conseil de classe, il n'intervient que très rarement, il ne participe à aucune activité pédagogique et éducative autre que celle effectuée en classe.\n-Il contribue partiellement à la dynamique collective en participant à des échanges entre pairs.",
+            "2": "-L'enseignant participe régulièrement au travail de groupes de sa discipline ou de son niveau ainsi qu'aux projets transversaux (EPl,...). \n-Il participe à des activités pédagogiques et éducatives autres que celles effectuées en classe. \n-Il contribue à la dynamique collective de sa discipline en participant à des échanges entre pairs ou de son niveau (visites croisées).\n",
+            "3": "-L'enseignant participe à la production de ressources partagées. \n-Il accompagne les nouveaux enseignants.\n-Il coopère avec les équipes pédagogiques (primaire/secondaire) et/ou d'autres établissements, notamment dans le cadre de sa discipline, du numérique et/ou de la relation inter-degrés."
+        }
+    },
+    {
+        "question": "Comment impliquez-vous les parents dans le suivi des progrès de leurs enfants ? Donnez un exemple précis.",
+        "variable": "implication_parents_suivi",
+        "competence": "Contribuer à l'action de la communauté éducative notamment dans ses relations avec les parents d'élèves",
+        "grille": {
+            "0": "-L'enseignant ne s'engage pas dans l'information des parents d'élèves sur son enseignement car il n'en mesure pas l'importance.\n-Il ne se rend pas disponible pour assurer les rendez-vous demandés par les parents d'élèves car il ne connait pas ce levier coopération.\n-Il a régulièrement des relations conflictuelles avec des parents, car il ne sent pas à l'aise dans les entretiens.",
+            "1": "-L'enseignant participe à l'information des parents d'élèves sur l'enseignement dispensé, ses objectifs, ses méthodes pédagogiques et ses critères d'évaluation.\n- Il identifie le rôle et l'action des différents membres de la communauté éducative de l'établissement.",
+            "2": "-L'enseignant entretient un dialogue constructif et bienveillant avec les parents d'élèves pour le bien être et l'épanouissement de l'élève, fondé sur l'écoute réciproque.\n-Il est en mesure d'expliquer aux parents d'élèves les résultats, les progrès et le parcours de leur enfant en vue d'identifier les aptitudes, de repérer les difficultés et les possibilités d'y remédier, de valoriser les réussites.",
+            "3": "-L'enseignant sait inscrire son action et coordonner ses interventions\navec les autres membres de Ia communauté éducative, dont les parents d'élèves"
+        }
+    },
+    {
+        "question": "Intégrez-vous les spécificités de votre établissement dans vos pratiques pédagogiques ? Si oui, donnez un exemple précis.",
+        "variable": "integration_contexte_etablissement",
+        "competence": "Connaître et se situer dans son environnement de travail au sein de l'EFE",
+        "grille": {
+            "0": "-L'enseignant ne connait pas le projet d'établissement et les valeurs de l'OSUI.\n- Il n'est pas impliqué dans des actions et des projets Mlf ou AEFE.\n- Il n'a pas pris connaissance de la charte de l'OSUI.\n-Il ne prend pas en compte les spécificités culturelles du pays d'accueil. ",
+            "1": "-L'enseignant connaît partiellement le projet d'établissement et Ies valeurs de l'OSUI.\n-Il participe à des actions et des projets établissement.\n-Il enseignant respecte la charte de l'OSUI.\n-Il connaît les spécificités culturelles du pays d'accueil.",
+            "2": "-L'enseignant s'approprie et met en oeuvre le projet d'établissement et Ies valeurs de l'OSUI.\n-Il propose des activités périphériques (activités extrascolaires, ateliers, clubs ...) au sein de son établissement. \n",
+            "3": "-L'enseignant contribue à des groupes de travail à l'échelle du réseau OSUI, Mlf, AEFE.\n-Il contribue à créer un sentiment d'appartenance à l'établissement.  \n-Il contextualise son enseignement à la culture du pays d'accueil dans le respect de l'homologation. \n"
+        }
+    }
+]
